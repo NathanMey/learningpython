@@ -1,7 +1,9 @@
 # learningpython
 Notes taken as I learn about Python
 
-Those who code in python are called pythonistas//
-It was created by Guido va Rossum//
+elements of python
 
-Syntax Errors: Pyhton's admission that it does not understand what you're saying
+words = variables and reserved words (CH2)
+sentence strcuture = valid syntax patterns (CH3-5)
+story structure = constructing a program for a purpose
+
