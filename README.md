@@ -1,3 +1,5 @@
 # learningpython
 Notes taken as I learn about Python
-I want to learn how to code tso that I can become a Systems Engineer.
+
+Where to get learning material: www.py4e.com
+Book: http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf
